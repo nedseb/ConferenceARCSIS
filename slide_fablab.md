@@ -1,6 +1,6 @@
 class: center, middle
 
-# Fabrication Numérique et Fab Lab : Artisans concrétisez vos idées ?
+# Fabrication Numérique et Fab Lab : Artisans concrétisez vos idées !
 ### Sébastien NEDJAR (MCF AMU - LIF)
 ![LAB](logo.png)
 ---
