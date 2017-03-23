@@ -1,6 +1,6 @@
 class: center, middle
 
-# Fabrication Numérique et Fab Lab : Artisans concrétisez vos idées !
+# Fablabs :  concrétisons nos idées !
 ### Sébastien NEDJAR (MCF AMU - LIF)
 ![LAB](logolab.png)
 ---
@@ -13,7 +13,6 @@ class: center, middle
     + Co-animateur de l'ICSTUG #iutagile.
     
 ---
-
 class: center, middle
 #Fab Lab
 ---
@@ -24,34 +23,6 @@ class: center, middle
 
 ## De l'Open Source à l'Open Hardware
 ![De l'open source à l'open hardware](opensource.png)
----
-
-## Open Source
-- Un logiciel est Open Source quand ses sources sont accessibles.
-
-- Disposant des sources, on est libre de les étudier, les modifier pour adapter 
-  le logiciel à ses besoins.
-
-- Depuis plus de 30 ans, de nombreuses licences Open Source sont apparues pour 
-  diffuser les logiciels Open Source tout en se protégeant (GPL, BSD, MIT, ...).
----
-
-## Open Hardware
-- Du "hardware" dont les plans sont accessibles
-  - Plans mécaniques
-
-  - Schémas électroniques
-
-  - Codes informatiques
-
-  - Procédés de fabrication
-
-- Le tout sous une licence ouverte
-  - Constructible par tous
-
-  - Intégrable dans d'autres objets
-
-  - Modifiable par tous
 ---
 
 ## Maker
