@@ -54,11 +54,6 @@ class: center, middle
 
 - Échange de compétences.
 ---
-# Qu'est ce qu'un Fab Lab ?
-
-.center[![Qu'est ce qu'un Fab Lab](schema_fablab_1.png)]
-
----
 # Charte des Fablabs
 
 Afin de porter l’appellation de « FabLab », la structure doit entre autres respecter la charte des FabLab, mise en place par le MIT. 
@@ -122,18 +117,22 @@ Afin de porter l’appellation de « FabLab », la structure doit entre autres r
 ###Comment les entreprises peuvent utiliser un Fab Lab??
 Les activités commerciales peuvent être prototypées et incubées dans un Fab Lab, mais elles ne doivent pas entrer en conflit avec les autres usages, elles doivent croître au delà du Lab plutôt qu’en son sein, et il est attendu qu’elles bénéficient à leurs inventeurs, aux Labs, et aux réseaux qui ont contribué à leur succès.
 ---
+# Qu'est ce qu'un Fab Lab ?
 
+.center[![Qu'est ce qu'un Fab Lab](schema_fablab_1.png)]
+
+---
 # Autour d'un Fab Lab ?
 
 .center[![Autour d'un Fab Lab](schema_fablab_2.png)]
----
 
+---
 # Que trouve-t-on dans un Fab Lab ?
 
 .center[![Que trouve-t-on dans un Fab Lab](schema_fablab_3.png)]
----
 
-## Laboratoire d'Aix-périmentation et de bidouille
+---
+## Laboratoire d'Aix-périmentation et de Bidouille
 
 - Fab Lab ouvert à tous (*i.e* même à moi pour vous dire),
 
@@ -146,17 +145,47 @@ Les activités commerciales peuvent être prototypées et incubées dans un Fab 
 .center[![LAB](logolab.png)]
 ---
 
-## Laboratoire d'Aix-périmentation et de bidouille
-Pour en savoir plus :  
+## Laboratoire d'Aix-périmentation et de Bidouille
+Pour en savoir plus :
   - Site Web : http://www.labaixbidouille.com/ 
 
-  - Twitter : @LabAixBidouille  
+  - Twitter : @LabAixBidouille
 
   - Github : https://github.com/LabAixBidouille 
 
   - Google groups : lab-aix@googlegroups.com
 
   .center[![LAB](logolab.png)]
+---
+
+## Exemples de projets développés au L.A.B.
+Un bouchon de flacon pour vernis à ongles qui permet au pinceau d’atteindre le fond du flacon
+
+.center[![LAB](maeva.png)]
+---
+
+## Exemples de projets développés au L.A.B.
+### Simulateur de cockpit A 320
+- Fiabilisation du simulateur : de l’USB au bus CAN
+- Mesure des temps de réaction entre une commande et l’action effective 
+- Homologation du simulateur par la DGAC 
+
+.center[![LAB](vinci.png)]
+---
+
+## Exemples de projets développés au L.A.B.
+### RobotduLAB : Un robot pour apprendre à programmer
+.center[![LAB](robotdulab.png)]
+---
+
+## Exemples de projets développés au L.A.B.
+### Axyn Robotique : Une startup fondée par des membres du L.A.B
+.center[![LAB](axyn.png)]
+---
+
+## Exemples de projets développés au L.A.B.
+### AquaponAix : Un démonstrateur d'une agriculture durable et intelligente
+.center[![LAB](aquaponaix.png)]
 ---
 
 class: center, middle
