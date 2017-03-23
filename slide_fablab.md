@@ -80,7 +80,7 @@ Les Fab Labs partagent le catalogue évolutif d’un noyau de capacités pour fa
 
 Afin de porter l’appellation de « FabLab », la structure doit entre autres respecter la charte des FabLab, mise en place par le MIT. 
 
-###Que fournit le réseau des Fab Labs ?
+### Que fournit le réseau des Fab Labs ?
 Une assistance opérationnelle, d’éducation, technique, financière et logistique au delà de ce qui est disponible dans un seul lab.
 
 ---
@@ -88,7 +88,7 @@ Une assistance opérationnelle, d’éducation, technique, financière et logist
 
 Afin de porter l’appellation de « FabLab », la structure doit entre autres respecter la charte des FabLab, mise en place par le MIT. 
 
-###Qui peut utiliser un Fab Lab ?
+### Qui peut utiliser un Fab Lab ?
 Les Fab Labs sont disponibles comme une ressource communautaire, qui propose un accès libre aux individus autant qu’un accès sur inscription dans le cadre de programmes spécifiques.
 
 ---
@@ -96,7 +96,7 @@ Les Fab Labs sont disponibles comme une ressource communautaire, qui propose un 
 
 Afin de porter l’appellation de « FabLab », la structure doit entre autres respecter la charte des FabLab, mise en place par le MIT. 
 
-###Quelles sont vos responsabilités ?
+### Quelles sont vos responsabilités ?
 - Sécurité : Ne blesser personne et ne pas endommager l’équipement.
 - Fonctionnement : Aider à nettoyer, maintenir et améliorer le Lab.
 - Connaissances :  Contribuer à la documentation et aux connaissances des autres
@@ -106,7 +106,7 @@ Afin de porter l’appellation de « FabLab », la structure doit entre autres r
 
 Afin de porter l’appellation de « FabLab », la structure doit entre autres respecter la charte des FabLab, mise en place par le MIT. 
 
-###Qui possède les inventions faites dans un Fab Lab??
+### Qui possède les inventions faites dans un Fab Lab??
 Les designs et les procédés développés dans les Fab Labs peuvent être protégés et vendus comme le souhaite leur inventeur, mais doivent rester disponibles de manière à ce que les individus puissent les utiliser et en apprendre.
 
 ---
@@ -114,7 +114,7 @@ Les designs et les procédés développés dans les Fab Labs peuvent être prot�
 
 Afin de porter l’appellation de « FabLab », la structure doit entre autres respecter la charte des FabLab, mise en place par le MIT. 
 
-###Comment les entreprises peuvent utiliser un Fab Lab??
+### Comment les entreprises peuvent utiliser un Fab Lab??
 Les activités commerciales peuvent être prototypées et incubées dans un Fab Lab, mais elles ne doivent pas entrer en conflit avec les autres usages, elles doivent croître au delà du Lab plutôt qu’en son sein, et il est attendu qu’elles bénéficient à leurs inventeurs, aux Labs, et aux réseaux qui ont contribué à leur succès.
 ---
 # Qu'est ce qu'un Fab Lab ?
