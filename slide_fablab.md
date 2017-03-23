@@ -57,6 +57,13 @@ class: center, middle
 # Qu'est ce qu'un Fab Lab ?
 
 .center[![Qu'est ce qu'un Fab Lab](schema_fablab_1.png)]
+
+---
+# Charte des Fablabs
+
+Afin de porter l’appellation de « FabLab », la structure doit entre autres respecter la charte des FabLab, mise en place par le MIT. 
+
+
 ---
 # Charte des Fablabs
 
@@ -65,7 +72,6 @@ Afin de porter l’appellation de « FabLab », la structure doit entre autres r
 ### Qu’est-ce qu’un Fab Lab ?
 Les Fab Labs sont un réseau mondial de laboratoires locaux, qui doppent l’inventivité en donnant accès à des outils de fabrication numérique.
 
-
 ---
 # Charte des Fablabs
 
@@ -73,7 +79,6 @@ Afin de porter l’appellation de « FabLab », la structure doit entre autres r
 
 ### Que trouve-t-on dans un Fab Lab??
 Les Fab Labs partagent le catalogue évolutif d’un noyau de capacités pour fabriquer (presque) n’importe quel objet, permettant aux personnes et aux projets d’être partagés.
-
 
 ---
 # Charte des Fablabs
@@ -114,7 +119,7 @@ Les designs et les procédés développés dans les Fab Labs peuvent être prot�
 
 Afin de porter l’appellation de « FabLab », la structure doit entre autres respecter la charte des FabLab, mise en place par le MIT. 
 
-# Comment les entreprises peuvent utiliser un Fab Lab??
+###Comment les entreprises peuvent utiliser un Fab Lab??
 Les activités commerciales peuvent être prototypées et incubées dans un Fab Lab, mais elles ne doivent pas entrer en conflit avec les autres usages, elles doivent croître au delà du Lab plutôt qu’en son sein, et il est attendu qu’elles bénéficient à leurs inventeurs, aux Labs, et aux réseaux qui ont contribué à leur succès.
 ---
 
