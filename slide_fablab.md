@@ -1,16 +1,16 @@
 class: center, middle
 
 # Fablabs :  concrétisons nos idées !
-### Sébastien NEDJAR (MCF AMU - LIF)
+### Sébastien NEDJAR (MCF AMU - LIS)
 ![LAB](logolab.png)
 ---
 # À propos
 - Sébastien NEDJAR (@nedseb)
-    + Maître de conférences au Département Info de l'IUT  d'Aix. Enseignant spécialiste des Bases de données et chercheur en OLAP Mining au LIF.
+    + Maître de conférences au Département Info de l'IUT d'Aix-Marseille. Enseignant spécialiste des Bases de données et chercheur en OLAP Mining au LIS.
 
     + Membre fondateur du Fab Lab Provence et du Laboratoire d'Aixpérimentation et de Bidouille.
     
-    + Co-animateur de l'ICSTUG #iutagile.
+    + Entrepreuneur et fondateur de la Start-up Zeugma LTD.
     
 ---
 class: center, middle
@@ -242,7 +242,7 @@ class: center, middle
 
 class: center, middle
 
-# Quel est l'intérêt pour une entreprise ?
+# Quel est l'intérêt pour chacun de nous ?
 ---
 
 # Un mode de fonctionnement
